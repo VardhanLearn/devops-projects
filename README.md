@@ -5,19 +5,22 @@ DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]
 ## Hit the Star! ⭐
 If you are planning to use this repo for learning, please hit the star. Thanks!
 
-## DevOps Certification Vouchers
+## Kubernetes Certification Voucher (UpTo 38% OFF) 🎉
 
 As part of our commitment to helping the DevOps community save money on Kubernetes Certifications, we continuously update the latest voucher codes from the Linux Foundation
 
-- 🚀  CKA, CKAD, CKS, or KCNA exam aspirants can **save 35%** today using code **HOLIDAY23COM** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
+> [!IMPORTANT]
+> 🚀  Kubernetes Certification aspirants can **save 30%** today using code **DCUBE30** at https://kube.promo/devops. It is a limited-time offer from the Linux Foundation.
 
-The following are the best bundles to **save 35% + Extra Discount** with code **HOLIDAY23**
+The following are the best bundles to **save 38% (up to $788)** with code **DCUBE30**
 
-- CKA + CKAD + CKS Exam bundle ($407 Savings): [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
-- CKA + CKS Bundle ($308 Savings) [kube.promo/bundle](https://kube.promo/bundle)
-- KCNA + CKA ( $170 Savings) [kube.promo/kcka-bundle](https://kube.promo/kcna-cka)
+- CKA + CKAD: [kube.promo/cka-ckad](https://kube.promo/cka-ckad)
+- CKA + CKS Bundle: [kube.promo/bundle](https://kube.promo/bundle)
+- CKA + CKAD + CKS Exam bundle: [kube.promo/k8s-bundle](https://kube.promo/k8s-bundle)
 
->Note: You have one year of validity to appear for the certification exam after registration
+> [!NOTE]
+>⌛ Act fast—this limited-time offer won’t be around much longer!
+> You have one year of validity to appear for the certification exam after registration
 
 ## Real-World DevOps Projects 
 
@@ -26,6 +29,11 @@ The following are the best bundles to **save 35% + Extra Discount** with code **
 3. [Deploying a Scalable Java Application on AWS](https://github.com/techiescamp/devops-projects/tree/main/03-scalable-java-app)
 4. [Deploy Prometheus Observability stack using Docker Compose](https://github.com/techiescamp/devops-projects/tree/main/04-prometheus-observability-stack)
 5. [Design and Automate AWS VPC Creation Using Terraform](https://github.com/techiescamp/devops-projects/tree/main/05-aws-vpc-design-and-automation)
+6. [AWS Client to Site VPN Setup](https://github.com/techiescamp/devops-projects/tree/main/06-aws-client-vpn-setup)
+7. [Pritunl VPN Setup](https://github.com/techiescamp/devops-projects/tree/main/07-pritunl-vpn-setup)
+8. [Fargate APP Deployment](https://github.com/techiescamp/devops-projects/tree/main/08-fargate-app-deployment)
+9. [GitHub Actions OIDC AWS Integration](https://github.com/techiescamp/devops-projects/tree/main/09-github-action-oidc-aws)
+10. [Setup AWS Route53 Private Hosted Zone](https://github.com/techiescamp/devops-projects/tree/main/10-route53-private-hosted-zone)
 
 
 > All the DevOps Real World Projects ideas and planned projects are Documented in [Real World DevOps Projects](https://devopscube.com/devops-projects/) Blog
